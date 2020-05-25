@@ -1,6 +1,6 @@
 # Hello World Rest API running on port 5000
 
-Run com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication as a Java Application.
+Run edu.akslearning.aws.helloworldrestapi.HelloWorldRestApiApplication as a Java Application.
 
 - http://localhost:5000/hello-world
 
